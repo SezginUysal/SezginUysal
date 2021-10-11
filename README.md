@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SezginUysal
 - 👀 I’m interested in Labour Econ, Experimental and Behavioural Econ
-- 🌱 I’m currently learning Phython
+- 🌱 I’m currently learning Phython and Julia language.
 - 📫 How to reach me. My e-mail adress: sezgnuysal@gmail.com
 
 <!---
