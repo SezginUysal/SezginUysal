@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SezginUysal
-- 👀 I’m interested in Labour Econ, Experimental and Behavioural Econ
+- 👀 I’m interested in Labour and Experimental Econ 
 - 🌱 I’m currently learning Phython and Julia language.
 - 📫 How to reach me. My e-mail adress: sezgnuysal@gmail.com
 
